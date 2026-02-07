@@ -25,9 +25,7 @@ Think of me as someone building the base tools now for the problems I want to so
 📚 Currently Learning
 
 Right now, I’m diving deeply into:
-Deep Learning theory and hands-on training
-AI engineering workflows and tools
-Improving mathematical intuition for ML
+LLM and Generative AI engineering and how we can harness the power of these llms and make agentic workflows for businesses and help them maximize their efficiency and lower their costs, and to do so i am following a 5 Course series on Udemy by Ed Donner 
 
 🛠️ Tools & Technologies
 
